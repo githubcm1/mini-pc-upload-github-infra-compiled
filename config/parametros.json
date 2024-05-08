@@ -1,0 +1,11 @@
+{
+  "instala_dependencias": false,
+  "instala_apenas_dependencias": false,
+  "instala_pyconcrete": true,
+  "atualiza_rec_facial": true,
+  "refaz_database": false,
+  "obtem_linhas": true,
+  "recarrega_contas": false,
+  "faz_reboot": true,
+  "mantem_tabelas_contas": true
+}

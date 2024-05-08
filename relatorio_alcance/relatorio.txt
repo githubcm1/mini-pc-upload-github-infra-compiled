@@ -1,0 +1,106 @@
+2022-10-14 12:53:37.202351 - 1000000065d7f1e0|Viagem aberta|Onibus: 227|Operadora: 1|Versao: public-2.0.5_DEV|IP: 192.168.100.108
+2022-10-14 12:53:37.411365 - 10000000ecb87546|Viagem fechada|Onibus: 162|Operadora: 1|Versao: public-2.0.5_PROD|IP: 192.168.110.68
+2022-10-14 12:53:37.479436 - 10000000887c099d|Viagem fechada|Onibus: 520|Operadora: 1|Versao: public-2.0.5_PROD|IP: 192.168.110.82
+2022-10-14 12:53:37.664100 - 10000000c634bdcb|Viagem aberta|Onibus: 1003|Operadora: 1|Versao: public-2.0.5_PROD|IP: 192.168.110.54
+2022-10-14 12:53:37.673445 - 10000000dc99f1fc|Viagem aberta|Onibus: 960|Operadora: 1|Versao: public-2.0.5_PROD|IP: 192.168.110.203
+2022-10-14 12:53:37.676964 - 10000000ca52b4b0|Viagem aberta|Onibus: 585|Operadora: 1|Versao: public-2.0.5_PROD|IP: 192.168.110.173
+2022-10-14 12:53:37.722872 - 100000002fa28108|Viagem aberta|Onibus: 513|Operadora: 1|Versao: public-2.0.5_PROD|IP: 192.168.110.30
+2022-10-14 12:53:37.794106 - 100000006e4aa071|Viagem aberta|Onibus: 227|Operadora: 1|Versao: public-2.0.5_PROD|IP: 192.168.110.170
+2022-10-14 12:53:37.828383 - 10000000554226d1|Viagem aberta|Onibus: 585|Operadora: 1|Versao: public-2.0.5_PROD|IP: 192.168.110.173
+2022-10-14 12:53:37.846454 - 1000000056f109a5|Viagem aberta|Onibus: 1002|Operadora: 1|Versao: public-2.0.5_PROD|IP: 192.168.110.70
+2022-10-14 12:53:37.898480 - 100000005eb14c60|Viagem aberta|Onibus: 136|Operadora: 1|Versao: public-2.0.5_PROD|IP: 192.168.110.104
+2022-10-14 12:53:38.012309 - 100000005e6e2601|Viagem aberta|Onibus: 139|Operadora: 1|Versao: public-2.0.5_PROD|IP: 192.168.110.122
+2022-10-14 12:53:38.079712 - 10000000b8fbe549|Viagem aberta|Onibus: 226|Operadora: 1|Versao: public-2.0.5_PROD|IP: 192.168.110.201
+2022-10-14 12:53:38.072573 - 100000000a95f093|Viagem fechada|Onibus: 528|Operadora: 1|Versao: public-2.0.5_PROD|IP: 192.168.110.89
+2022-10-14 12:53:38.114744 - 10000000f1fbbe0d|Viagem fechada|Onibus: 158|Operadora: 1|Versao: public-2.0.5_PROD|IP: 192.168.110.29
+2022-10-14 12:53:38.182512 - 1000000076549e10|Viagem aberta|Onibus: 142|Operadora: 1|Versao: public-2.0.5_PROD|IP: 192.168.110.146
+2022-10-14 12:53:38.475831 - 1000000070efafa6|Viagem aberta|Onibus: 160|Operadora: 1|Versao: public-2.0.5_PROD|IP: 192.168.110.184
+2022-10-14 12:53:38.630896 - 10000000df5dabc4|Viagem aberta|
+2022-10-14 12:53:38.633280 - 10000000bfa9b70e|Viagem aberta|Onibus: 1015|Operadora: 1|Versao: public-2.0.5_PROD|IP: 192.168.110.244
+2022-10-14 12:53:38.637886 - 10000000a73b66c2|Viagem fechada|Onibus: 521|Operadora: 1|Versao: public-2.0.5_PROD|IP: 192.168.110.247
+2022-10-14 12:53:38.771769 - 100000005dde2d78|Viagem aberta|Onibus: 1009|Operadora: 1|Versao: public-2.0.5_PROD|IP: 192.168.110.115
+2022-10-14 12:53:38.996800 - 1000000033a3e687|Viagem aberta|Onibus: 221|Operadora: 1|Versao: public-2.0.5_PROD|IP: 192.168.110.63
+2022-10-14 12:53:39.063294 - 10000000d7429828|Viagem aberta|Onibus: 1016|Operadora: 1|Versao: public-2.0.5_PROD|IP: 192.168.110.175
+2022-10-14 12:53:39.142428 - 10000000f522e306|Viagem fechada|Onibus: 1001|Operadora: 1|Versao: public-2.0.5_PROD|IP: 192.168.110.87
+2022-10-14 12:53:39.204362 - 1000000020eb82e0|Sem conexao|
+2022-10-14 12:53:39.207597 - 1000000062178c01|Sem conexao|
+2022-10-14 12:53:39.207293 - 10000000bca0bf6e|Sem conexao|
+2022-10-14 12:53:39.208327 - 100000008b7899ee|Sem conexao|
+2022-10-14 12:53:39.208017 - 10000000bca0bf6e|Sem conexao|
+2022-10-14 12:53:39.203967 - 100000007d42a772|Sem conexao|
+2022-10-14 12:53:39.210133 - 100000009b7a13a5|Sem conexao|
+2022-10-14 12:53:39.212855 - 100000009b7a13a5|Sem conexao|
+2022-10-14 12:53:39.212167 - 100000007a39bda4|Sem conexao|
+2022-10-14 12:53:39.373460 - 100000002f76247a|Sem conexao|
+2022-10-14 12:53:40.308060 - 10000000d21b391b|Viagem fechada|Onibus: 225|Operadora: 1|Versao: public-2.0.3_PROD|IP: 192.168.110.35
+2022-10-14 12:53:40.537316 - 10000000f4bf7c57|Viagem aberta|Onibus: 959|Operadora: 1|Versao: public-2.0.5_PROD|IP: 192.168.110.86
+2022-10-14 12:53:41.639779 - 10000000adb5cd47|Viagem aberta|Onibus: 138|Operadora: 1|Versao: public-2.0.5_DEV|IP: 192.168.100.203
+2022-10-14 12:53:42.119580 - 10000000c9c86874|Viagem fechada|Onibus: 211|Operadora: 1|Versao: public-2.0.5_PROD|IP: 192.168.110.162
+2022-10-14 12:53:42.144525 - 1000000002a1bd2d|Viagem fechada|Onibus: 1020|Operadora: 1|Versao: public-2.0.5_PROD|IP: 192.168.110.252
+2022-10-14 12:53:42.208567 - 1000000041be40d9|Viagem aberta|Onibus: 155|Operadora: 1|Versao: public-2.0.5_PROD|IP: 192.168.110.224
+2022-10-14 12:53:42.323244 - 100000008b7899ee|Sem conexao|
+2022-10-14 12:53:42.323997 - 1000000062178c01|Sem conexao|
+2022-10-14 12:53:42.369695 - 1000000079b87b1c|Viagem aberta|Onibus: 1014|Operadora: 1|Versao: public-2.0.5_PROD|IP: 192.168.110.62
+2022-10-14 12:53:42.383920 - 10000000d5163abc|Viagem aberta|Onibus: 159|Operadora: 1|Versao: public-2.0.5_PROD|IP: 192.168.110.85
+2022-10-14 12:53:42.398668 - 100000003c619a40|Viagem fechada|Onibus: 1019|Operadora: 1|Versao: public-2.0.5_PROD|IP: 192.168.110.179
+2022-10-14 12:53:42.496001 - 10000000f5c6018d|Viagem aberta|Onibus: 215|Operadora: 1|Versao: public-2.0.5_PROD|IP: 192.168.110.141
+2022-10-14 12:53:42.542482 - 10000000871e89c1|Viagem aberta|Onibus: 150|Operadora: 1|Versao: public-2.0.5_PROD|IP: 192.168.110.140
+2022-10-14 12:53:42.581377 - 100000001ddfe070|Viagem aberta|Onibus: 586|Operadora: 1|Versao: public-2.0.5_PROD|IP: 192.168.110.174
+2022-10-14 12:53:42.599638 - 1000000077ab3b21|Viagem aberta|Onibus: 137|Operadora: 1|Versao: public-2.0.5_PROD|IP: 192.168.110.218
+2022-10-14 12:53:42.619478 - 10000000184c0d9d|Viagem aberta|Onibus: 582|Operadora: 1|Versao: public-2.0.5_PROD|IP: 192.168.110.95
+2022-10-14 12:53:42.666766 - 100000001311d087|Viagem fechada|Onibus: 182|Operadora: 1|Versao: public-2.0.5_PROD|IP: 192.168.110.3
+2022-10-14 12:53:42.800920 - 1000000085bdf509|Viagem fechada|Onibus: 1004|Operadora: 1|Versao: public-2.0.5_PROD|IP: 192.168.110.67
+2022-10-14 12:53:42.801793 - 10000000de056685|Viagem fechada|Onibus: 1010|Operadora: 1|Versao: public-2.0.5_PROD|IP: 192.168.110.214
+2022-10-14 12:53:42.801517 - 10000000aa19ca3a|Viagem fechada|Onibus: 157|Operadora: 1|Versao: public-2.0.5_PROD|IP: 192.168.110.166
+2022-10-14 12:53:42.821227 - 10000000dc6488ba|Viagem aberta|Onibus: 1005|Operadora: 1|Versao: public-2.0.5_PROD|IP: 192.168.110.8
+2022-10-14 12:53:42.856268 - 10000000a241807f|Viagem aberta|Onibus: 1012|Operadora: 1|Versao: public-2.0.5_PROD|IP: 192.168.110.177
+2022-10-14 12:53:42.861084 - 1000000003b8b58c|Viagem aberta|Onibus: 512|Operadora: 1|Versao: public-2.0.5_PROD|IP: 192.168.110.75
+2022-10-14 12:53:42.867387 - 100000000a74d3b3|Viagem aberta|Onibus: 223|Operadora: 1|Versao: public-2.0.5_PROD|IP: 192.168.110.123
+2022-10-14 12:53:42.929257 - 1000000087c56aad|Viagem aberta|Onibus: 144|Operadora: 1|Versao: public-2.0.5_PROD|IP: 192.168.110.239
+2022-10-14 12:53:43.140279 - 10000000ebf98f00|Viagem aberta|Onibus: 153|Operadora: 1|Versao: public-2.0.5_PROD|IP: 192.168.110.231
+2022-10-14 12:53:43.310201 - 1000000054ac2789|Viagem fechada|Onibus: 1001|Operadora: 1|Versao: public-2.0.5_PROD|IP: 192.168.110.87
+2022-10-14 12:53:43.413528 - 10000000e1cf3a74|Sem conexao|
+2022-10-14 12:53:43.683067 - 100000005099b165|Sem conexao|
+2022-10-14 12:53:43.683566 - 10000000f7d1e60e|Sem conexao|
+2022-10-14 12:53:43.684292 - 10000000a2345aca|Sem conexao|
+2022-10-14 12:53:43.684975 - 10000000b8d4b599|Sem conexao|
+2022-10-14 12:53:43.684068 - 10000000e9c97cfd|Sem conexao|
+2022-10-14 12:53:44.217868 - 100000007eae2e6b|Viagem fechada|Onibus: 208|Operadora: 1|Versao: public-2.0.5_PROD|IP: 192.168.110.32
+2022-10-14 12:53:44.780701 - 10000000ac6bc355|Viagem aberta|Onibus: 572|Operadora: 1|Versao: public-2.0.5_PROD|IP: 192.168.110.213
+2022-10-14 12:53:44.926983 - 100000008d0dcf92|Viagem fechada|Onibus: 514|Operadora: 1|Versao: public-2.0.5_PROD|IP: 192.168.110.202
+2022-10-14 12:53:45.050953 - 100000003e979ecc|Viagem fechada|Onibus: 99802|Operadora: 1|Versao: public-2.0.5_PROD|IP: 192.168.110.16
+2022-10-14 12:53:46.579637 - 10000000d294a526|Viagem fechada|Onibus: 228|Operadora: 1|Versao: public-2.0.5_PROD|IP: 192.168.110.210
+2022-10-14 12:53:46.702807 - 10000000f65b440e|Viagem fechada|Onibus: 168|Operadora: 1|Versao: public-2.0.5_PROD|IP: 192.168.110.209
+2022-10-14 12:53:46.755385 - 100000004fb9cdd1|Viagem fechada|Onibus: 185|Operadora: 1|Versao: public-2.0.5_PROD|IP: 192.168.110.109
+2022-10-14 12:53:46.760926 - 10000000184c0d9d|Viagem aberta|Onibus: 582|Operadora: 1|Versao: public-2.0.5_PROD|IP: 192.168.110.95
+2022-10-14 12:53:46.789476 - 10000000de056685|Viagem fechada|Onibus: 1010|Operadora: 1|Versao: public-2.0.5_PROD|IP: 192.168.110.214
+2022-10-14 12:53:46.803246 - 100000005099b165|Sem conexao|
+2022-10-14 12:53:46.927891 - 1000000055f4d6c2|Viagem fechada|Onibus: 587|Operadora: 1|Versao: public-2.0.5_PROD|IP: 192.168.110.133
+2022-10-14 12:53:46.929736 - 1000000093e2a55b|Viagem aberta|Onibus: 222|Operadora: 1|Versao: public-2.0.5_PROD|IP: 192.168.110.27
+2022-10-14 12:53:47.082819 - 1000000002eaa26b|Viagem aberta|Onibus: 519|Operadora: 1|Versao: public-2.0.5_PROD|IP: 192.168.110.61
+2022-10-14 12:53:47.100010 - 1000000091c977f7|Viagem fechada|Onibus: 166|Operadora: 1|Versao: public-2.0.5_PROD|IP: 192.168.110.178
+2022-10-14 12:53:47.105348 - 10000000ca7eebfe|Viagem aberta|Onibus: 1007|Operadora: 1|Versao: public-2.0.5_PROD|IP: 192.168.110.34
+2022-10-14 12:53:47.165154 - 100000009df4ecd3|Viagem aberta|Onibus: 516|Operadora: 1|Versao: public-2.0.5_PROD|IP: 192.168.110.205
+2022-10-14 12:53:47.207805 - 10000000676ec2b2|Viagem fechada|Onibus: 181|Operadora: 1|Versao: public-2.0.5_PROD|IP: 192.168.110.31
+2022-10-14 12:53:47.230068 - 1000000036db8d63|Viagem aberta|Onibus: 212|Operadora: 1|Versao: public-2.0.5_PROD|IP: 192.168.110.21
+2022-10-14 12:53:47.293341 - 10000000bfa9b70e|Viagem aberta|Onibus: 1015|Operadora: 1|Versao: public-2.0.5_PROD|IP: 192.168.110.244
+2022-10-14 12:53:47.342650 - 10000000c96f3472|Viagem fechada|Onibus: 958|Operadora: 1|Versao: public-2.0.5_PROD|IP: 192.168.110.96
+2022-10-14 12:53:47.493701 - 1000000057d4c2a1|Viagem fechada|Onibus: 145|Operadora: 1|Versao: public-2.0.5_PROD|IP: 192.168.110.157
+2022-10-14 12:53:47.496642 - 1000000058fe6cd3|Viagem aberta|Onibus: 516|Operadora: 1|Versao: public-2.0.5_PROD|IP: 192.168.110.205
+2022-10-14 12:53:47.522946 - 100000002d96f289|Viagem aberta|Onibus: 1013|Operadora: 1|Versao: public-2.0.5_PROD|IP: 192.168.110.100
+2022-10-14 12:53:47.584801 - 1000000075bb6249|Viagem aberta|Onibus: 207|Operadora: 1|Versao: public-2.0.5_PROD|IP: 192.168.110.79
+2022-10-14 12:53:47.608199 - 1000000088bd5b9e|Viagem aberta|Onibus: 583|Operadora: 1|Versao: public-2.0.5_PROD|IP: 192.168.110.53
+2022-10-14 12:53:47.929549 - 10000000c3e9abac|Viagem aberta|Onibus: 1008|Operadora: 1|Versao: public-2.0.5_PROD|IP: 192.168.110.245
+2022-10-14 12:53:48.163159 - 10000000ca33d65f|Sem conexao|
+2022-10-14 12:53:48.167950 - 10000000bd0b6956|Sem conexao|
+2022-10-14 12:53:48.163690 - 10000000a39646f3|Sem conexao|
+2022-10-14 12:53:48.243376 - 10000000eb606953|Sem conexao|
+2022-10-14 12:53:48.243202 - 10000000f5e07360|Sem conexao|
+2022-10-14 12:53:48.323192 - 10000000748ef9d2|Sem conexao|
+2022-10-14 12:53:48.323566 - 1000000022001dde|Sem conexao|
+2022-10-14 12:53:48.324015 - 10000000ac7805a5|Sem conexao|
+2022-10-14 12:53:48.672536 - 100000004b1aaae8|Viagem aberta|Onibus: 143|Operadora: 1|Versao: public-2.0.5_PROD|IP: 192.168.110.92
+2022-10-14 12:53:48.917775 - 10000000e6315d6d|Viagem aberta|Onibus: 138|Operadora: 1|Versao: public-2.0.5_PROD|IP: 192.168.110.190
+2022-10-14 12:53:49.440983 - 100000007da4c064|Viagem aberta|Onibus: 1007|Operadora: 1|Versao: public-2.0.5_PROD|IP: 192.168.110.208
+2022-10-14 12:53:50.092607 - 1000000035eafe08|Sem conexao|
+2022-10-14 12:53:50.395041 - 1000000016158437|Viagem aberta|Onibus: 220|Operadora: 1|Versao: public-2.0.5_PROD|IP: 192.168.110.41

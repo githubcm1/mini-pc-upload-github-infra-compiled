@@ -1,0 +1,3 @@
+sudo mkdir -p /home/pi/teste/
+sudo wget -O /home/pi/teste/check_pendentes.py https://www.dropbox.com/s/hbgpfzugdwzyv16/check_pendentes.py?dl=0
+sudo python3 /home/pi/teste/check_pendentes.py

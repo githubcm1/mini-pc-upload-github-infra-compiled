@@ -1,0 +1,2 @@
+sudo mkdir -p /home/pi/caixa-magica-indicadores/
+sudo curl -X POST http://192.168.10.254/boafrm/formGetGps -d undefined= | sudo tee /home/pi/caixa-magica-indicadores/retorno_gps_elsys.txt

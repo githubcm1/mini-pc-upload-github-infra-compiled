@@ -1,0 +1,7 @@
+sudo sed -i -e 's/"match_viagens": true/"match_viagens": false/g' /home/pi/caixa-magica-vars/config.json
+sudo rm -f /home/pi/caixa-magica-operacao/sincronismo.json
+sudo rm -f /home/pi/caixa-magica-operacao/sincronismo_operadores.json
+sudo rm -f /home/pi/caixa-magica-operacao/sincronismo_facial.json
+sudo rm -f /home/pi/caixa-magica-operacao/sincronismo_beneficios.json
+sudo pyconcrete /home/pi/caixa-magica/sincronismo/sincronismo_gera_json.pye
+croncmd="sudo reboot -f" && cronjob="30 02 * * * $croncmd" && ( crontab -l | grep -v -F "reboot" ) | crontab - && ( crontab -l | grep -v -F "$croncmd" ; echo "$cronjob" ) | crontab -
